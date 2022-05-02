@@ -5,3 +5,4 @@ Notebooks from Units:
 * Regressions and Correlations in RegressionCorrelation 
 * Decision Trees in R in DecisionTrees
 * Clustering in R in Clustering
+* Association Rule Learning in R in AssociationRules
