@@ -6,3 +6,4 @@ Notebooks from Units:
 * Decision Trees in R in DecisionTrees
 * Clustering in R in Clustering
 * Association Rule Learning in R in AssociationRules
+* Neural Networks in R in NeuralNetworks
