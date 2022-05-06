@@ -7,3 +7,4 @@ Notebooks from Units:
 * Clustering in R in Clustering
 * Association Rule Learning in R in AssociationRules
 * Neural Networks in R in NeuralNetworks
+* Genetic Algorithms in R in GeneticAlgorithms
